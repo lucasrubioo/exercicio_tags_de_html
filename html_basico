@@ -1,0 +1,39 @@
+<html>
+	<head></head>
+	<body>
+		<p>Olá,</p>
+		<h1>sou o Enzo Pascal.</h1>
+		<h2>UI/UX Designer</h2>
+		<p>Especialista em <em>Web Design</em>. Como profissional, meu foco é
+		criar experiências significativas para as pessoas.
+		Designer brasiliense, 29 anos, apaixonado por <em>desenvolvimento de interfaces</em> e
+		viciado em tecnologia.</p>
+		<p>Nos últimos 4 anos trabalhei em empresas de tecnologia,
+		comunicação e design. Sempre com foco em <em>produtos digitais</em>.
+<h2>Projetos</h2>
+		<ul>
+		<li><h3>Wordle:</h3>
+			<p>Trabalhei na criação do jogo de caça palavras usando apenas tecnologias do lado do cliente <em>(HTML, CSS e JS)</em> que passou de uma diversão para minha esposa em algo que virou febre na internet.</p>
+		</li> 
+		<li><h3>Fazae:</h3>
+			<p>Trabalhei no design e elaboração dos conceitos para um todo list (gestor de tarefas) focado em usabilidade e dispositivos móveis, partindo de pesquisas e prototipação até a criação de componentes webs.</p>
+		</li> 		
+		<li><h3>Trot:</h3>
+			<p>Participei da codificação do módulo frontend do projeto que é uma versão simplificada do strava, focando no frontend utilizando dados de dispositivos móveis, como GPS para armazenar a localização e exibição destes percursos usando bibliotecas como geemap.org, leafletjs e mapbox.</p>
+		</li> 
+		</ul>
+
+<h2>Habilidades</h2>
+		<ol>
+		<li><h3>UX Research</li></h3>
+		<li><h3>Product Design</li></h3>
+		<li><h3>UI Design</li></h3>
+		<li><h3>Web Designer</li></h3> 
+		<li><h3>HTML & CSS</li></h3>
+		<li><h3>JavaScript e VueJS</li></h3>
+		</ol>
+<h2>Contato</h2>
+		<p>E-Mail: <a href="mailto:renzo@web.dev">renzo@web.dev</p></a>
+		<p>Fone: <em>(12) 991002003</p></em>
+	</body>
+<html>
